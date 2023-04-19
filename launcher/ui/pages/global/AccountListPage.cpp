@@ -198,7 +198,7 @@ void AccountListPage::on_actionAddOffline_triggered()
 //                 "If you have lost your account you can contact Microsoft for support."
 //             )
 //         );
-    return;
+//    return;
 }
 
     MinecraftAccountPtr account = OfflineLoginDialog::newAccount(
